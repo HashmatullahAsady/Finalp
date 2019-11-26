@@ -1,0 +1,15 @@
+#banner{
+	background:rgb(100,200,300);
+	height: 20%;
+	text-align: center;
+}
+#conntent{
+	height: auto;
+	text-align: center;
+}
+#form{
+	height: auto;
+	width: 50%;
+	background:lightgray;
+	margin:0 auto;
+}

@@ -1,0 +1,30 @@
+#banner_vender_add{
+	height: 150px;
+	background:#003011;
+	text-align: center;
+}
+
+#form{
+	width: 50%;
+}
+#content{
+	height: 500px;
+}
+#footer{
+	height: 50px;
+	background: lightgray;
+	position: absolute;
+}
+#banner{
+	background: #003011;
+	height: 150px;
+	color: white;
+	text-align: center;
+	padding-top: 10px;
+}
+#btn{
+	background: #003011;
+	height: auto;
+	width: auto;
+	color: white;
+}

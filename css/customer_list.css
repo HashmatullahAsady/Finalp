@@ -1,0 +1,30 @@
+
+#banner{
+	height: 150px;
+	background:#003011;
+	margin: 0 auto;
+	text-align: center;
+
+}
+
+
+#footer{
+	margin-top: 600px;
+	position: absolute;
+	height: 150px;
+	background:lightgray;
+	color: green;
+	text-align: center;
+	padding-top: 30px;
+}
+h3{
+	color: white;
+}
+
+#btn{
+	margin-left: 10px;
+
+}
+#space{
+	height: 50px;
+}

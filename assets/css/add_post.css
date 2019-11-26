@@ -1,0 +1,30 @@
+
+
+body{
+	background-image: url("img/pic1.png");
+	background-repeat: no-repeat;
+	background-position:all;
+}
+#pobanner{
+	height: 150px;
+	background: gray;
+	text-align: center;
+
+}
+#pomenue{
+	height: 50px;
+	background: lightgreen;
+	text-align: center;
+}
+#pocontent{
+	height: auto;
+	background: lightgray;
+	overflow:auto;
+	text-align: center;
+
+}
+#post{height: auto;
+width: 50%;
+background: lightgreen;
+text-align: center;
+}

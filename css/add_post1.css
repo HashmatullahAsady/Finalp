@@ -1,0 +1,32 @@
+
+#pobanner{
+	height: 100px;
+	background: lightgray;
+	text-align: center;
+
+}
+#pomenue{
+	height: 50px;
+	background: lightgreen;
+	text-align: center;
+}
+#pocontent{
+	overflow:auto;
+	background-image: url("img/pic2.png");
+	background-repeat: no-repeat;
+	text-align: center;
+	background-position: all;
+}
+#post{height: auto;
+width: 50%;
+background: lightgreen;
+text-align: center;
+margin:0 auto;
+border: 2px solid black;
+margin-top: 2%;
+}
+#h1{
+	height: 50px;
+	margin-top: -20px;
+	background: gray;
+}

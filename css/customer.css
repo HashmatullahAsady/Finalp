@@ -1,0 +1,44 @@
+#customer_reg{
+	text-align: center;
+	height: auto;
+	margin: 0 auto;
+}
+#banner{
+	height: 150px;
+	background:#003011;
+	margin: 0 auto;
+	text-align: center;
+	color: white;
+}
+#c_form{
+	text-align: center;
+	margin: 0 auto;
+	width: 50%;
+	height: auto;
+	
+}
+
+#footer{
+	margin-top: 600px;
+	position: absolute;
+	height: 150px;
+	background:lightgray;
+	color: white;
+}
+#footer_edit{
+	margin-top: 650px;
+	position: absolute;
+	height: 150px;
+	background:linear-gradient(green,gray,lightgray,black,lightblue,green);
+	color: white;
+}
+#btn{
+	height: auto;
+	width: auto;
+	background:#003011; 
+}
+#btn:hover{
+	background: gray;
+
+
+}

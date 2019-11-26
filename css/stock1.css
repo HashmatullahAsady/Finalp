@@ -1,0 +1,18 @@
+#banner{
+
+	height:150px;
+	background:#003011;
+	text-align: center;
+	color: white;
+
+}
+#footer{
+	height: 150px;
+	background: lightgray;
+	text-align: center;
+	margin-top: 350px;
+}
+#content{
+	height: auto;
+
+}

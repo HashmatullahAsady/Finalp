@@ -1,0 +1,22 @@
+
+
+#banner{
+	background:rgb(100,200,300);
+	height: 15%;
+	text-align: center;
+	margin:0 auto;
+}
+#employee_reg{
+	background:rgb(400,300,500);
+	height:auto;
+	text-align: center;
+}
+#form{
+	height: auto;
+	width: 50%;
+	margin: 0 auto;
+	background-position: all;
+	background:rgb(200,300,200);
+	border: 1px solid gray;
+	border-radius: 10px;
+}

@@ -1,0 +1,33 @@
+#banner{
+	height: 150px;
+	background: #003011;
+	text-align: center;
+	color: white;
+
+}
+#banner1{
+	height: 150px;
+	background: #003011;
+	color: white;
+	text-align: center;
+	color: white;
+}
+
+#content{
+	height: auto;
+
+}
+#footer{
+	margin-top: 350px;
+	height: 145px;
+	background: lightgray;
+}
+
+#footer1{margin-top: 350px;
+height: 150px;
+background: lightgray;
+text-align: center;
+}
+form{
+	border-radius: 20px;
+}

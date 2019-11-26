@@ -1,0 +1,49 @@
+#pubanner{
+	height: 150px;
+	background: #003011;
+	text-align:center;
+	color: white;
+}
+#pumenue{
+	height: 50px;
+	background: rgb(200,100,300);
+	text-align: center;
+}
+#img{ float: left; }
+#banner{
+	margin:0 auto;
+}
+#pu{
+	margin:0  auto;
+}
+#puitem{
+	height: auto;
+	width: 50%;
+	margin: 0 auto;
+}
+#vender	a:hover{
+	background:white;
+	color: black;
+}
+#vender_info{
+height: auto;
+width: auto;
+background: rgb(100,200,300);
+position: absolute;
+
+}
+#pu_title{
+	height: auto;
+	width: 50%;
+	text-align: center;
+	background:lightgray;
+}
+#pucontent{
+	border: 2px solid black;
+	height: auto;
+	background: linear-gradient(white,green );
+}
+#footer{
+	height: 150px;
+	background: linear-gradient(lightgray,black);
+}

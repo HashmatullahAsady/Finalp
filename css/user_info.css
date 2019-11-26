@@ -1,0 +1,19 @@
+#banner{
+background:#003011; 
+color: white;
+height: 150px;
+text-align: center;
+}
+#content{
+	height: auto;
+	text-align: center;
+	margin-top: 10px;
+}
+#home{
+	float: left;
+}
+#info{
+	height: auto;
+	margin:0 auto;
+	width: 50%;
+}
